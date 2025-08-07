@@ -4,5 +4,5 @@
 
 ### Connect
 
-- [LinkedIn](https://www.linkedin.com/in/radi-adil-2b521b330/)  
+- [LinkedIn](https://www.linkedin.com/in/radi-adil/)  
 - [Email](mailto:adilr@tcd.ie)
