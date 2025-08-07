@@ -5,4 +5,4 @@
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/radi-adil-2b521b330/)  
-- [Email](mailto:radiadil@example.com)
+- [Email](mailto:adilr@tcd.ie)
