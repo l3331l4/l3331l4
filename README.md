@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-transparent.gif" alt="Banner" width="950" />
+  <img src="assets/banner.gif" alt="Banner" width="950" />
 </p>
 
 ### Connect
