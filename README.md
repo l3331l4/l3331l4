@@ -9,4 +9,4 @@ My interests include:
 - Lately: Unity and game development
 
 Reach me at [adilr@tcd.ie](mailto:adilr@tcd.ie)  
-or chat via Discord: l3331l4
+Or chat via Discord: l3331l4
