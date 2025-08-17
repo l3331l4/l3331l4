@@ -6,7 +6,6 @@ My interests include:
 - Machine learning & AI  
 - Sound design, synthesis & music production  
 - Generative & data-driven art  
-- Lately: Unity and game development
 
 Reach me at <a href="mailto:adilr@tcd.ie">adilr@tcd.ie</a>  
 Or let's chat via Discord: l3331l4
